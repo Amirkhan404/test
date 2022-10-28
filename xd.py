@@ -1,0 +1,2 @@
+import crack
+crack.xd()
