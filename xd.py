@@ -1,2 +1,2 @@
-import crack
-crack.xd()
+import xnx
+xnx.xd()
