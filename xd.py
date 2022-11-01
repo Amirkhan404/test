@@ -1,2 +1,2 @@
-import xmx
-xmx.xd()
+import xcx
+xcx.xd()
