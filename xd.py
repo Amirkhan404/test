@@ -1,2 +1,2 @@
-import xcx
-xcx.xd()
+import xp
+xp.xd()
